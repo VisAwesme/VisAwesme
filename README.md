@@ -21,5 +21,5 @@ Check out my coding streak and contributions:
 
 ---
 
-🚀 **"No risk, no revolution."**  
--# (totally not a thing from a game I work on...) 
+**"No risk, no revolution."**  
+
