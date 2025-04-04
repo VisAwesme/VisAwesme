@@ -5,7 +5,7 @@ I'm a **cybersecurity nerd, developer, and all-around tech enthusiast** who dabb
 
 ## 🧑‍💻 What I Work With
 I code in a bunch of languages, but here are the ones I use the most:  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VisAwesme&theme=dark)](https://github.com/KobiSteve07/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VisAwesme&theme=dark)](https://github.com/VisAwesme/github-readme-stats)  
 
 I specialize in **game development, cybersecurity, and backend programming**, but I'm always tinkering with new projects. If you have a cool idea, hit me up!  
 
