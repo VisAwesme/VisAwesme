@@ -1,4 +1,4 @@
-# Hey, I'm DrKel.
+# Heyya! I'm Kel.
 
 Game developer and systems tinkerer.
 
